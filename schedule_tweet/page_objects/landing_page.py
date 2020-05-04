@@ -1,4 +1,4 @@
-login_button = 'form.form-login .btn'
+login_button = 'a.Button.Button--primary.block.txt-size--18.txt-center'
 
 
 def load(browser):
